@@ -1,0 +1,5 @@
+export { CompanyInformationSection } from './CompanyInformationSection/CompanyInformationSection'
+export { FinancialInformationSection } from './FinancialInformationSection/FinancialInformationSection'
+export { CompaniesPersonnelSection } from './CompaniesPersonnelSection/CompaniesPersonnelSection'
+export { ContactInformationSection } from './ContactInformationSection/ContactInformationSection'
+export { IpPortfolioSection } from './IpPortfolioSection/IpPortfolioSection'
